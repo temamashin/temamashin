@@ -1,20 +1,13 @@
-### Привет! Я Артём 👋
-
-Я Инженер и ML-разработчик из Санкт-Петербурга.
-Более 9 лет занимался сложным инженерным моделированием (CAE), а сейчас создаю ML-сервисы и внедряю автоматизацию.
-
-🔭 **Сейчас я работаю над:**
-- Системой управления инженерными данными (SPDM)
-- Telegram-ботами для автоматизации рутины
-
-🌱 **Мой стек:**
-- **Языки:** Python (Pandas, Numpy, Scikit-learn, CatBoost)
-- **Dev:** Docker, Git, Linux, SQL
-- **Interests:** Data Science, Computer Vision, LLM, Backend
-
-📫 **Как со мной связаться:**
-- Telegram: [@temamashin](https://t.me/temamashin)
-- Email: thomas-95@yandex.ru
-
----
-⭐️ *Заходите в мои репозитории ниже, там код моих проектов!*
+Hi there! I'm Artem 👋
+I am an Engineer and ML Developer based in St. Petersburg.
+I have over 9 years of experience in complex engineering simulation (CAE), and now I build ML services and implement automation solutions.
+🔭 I’m currently working on:
+A Simulation Process and Data Management (SPDM) system
+Telegram bots for routine automation
+🌱 My Tech Stack:
+Languages: Python (Pandas, NumPy, Scikit-learn, CatBoost)
+Dev: Docker, Git, Linux, SQL
+Interests: Data Science, Computer Vision, LLM, Backend
+📫 How to reach me:
+Telegram: @temamashin
+Email: thomas-95@yandex.ru
